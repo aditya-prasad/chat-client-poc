@@ -1,0 +1,18 @@
+## Exclude IntelliJ files
+/.idea/
+*.iml
+
+## Exclude Build Directories
+target/
+
+## Java Package Files
+*.jar
+*.war
+*.ear
+*.db
+
+## Java Class Files
+*.class
+
+## OS specific files
+.DS_Store
